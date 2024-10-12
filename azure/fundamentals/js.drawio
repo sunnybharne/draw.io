@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
   <diagram name="Page-1" id="_Y2H6WFEjGF17QhAO7V8">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-1" value="JS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-2" value="8 Data types" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=3;width=111;height=28;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-3" value="Number" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa7Yj9XWR-jMYllM7bil-5" target="Pa7Yj9XWR-jMYllM7bil-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-5" value="String" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pa7Yj9XWR-jMYllM7bil-7" target="Pa7Yj9XWR-jMYllM7bil-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-7" value="NaN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-8" value="Computational errors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-9" value="&lt;pre tabindex=&quot;0&quot; class=&quot;line-numbers language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;token comment&quot;&gt;Infinity / &lt;/code&gt;&lt;/code&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;token comment&quot;&gt;- Infinity&lt;/code&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-10" value="BigInt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-11" value="&lt;pre class=&quot;line-numbers language-javascript&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;token keyword&quot;&gt;const&lt;/code&gt; bigInt &lt;code class=&quot;token operator&quot;&gt;=&lt;/code&gt; &lt;code class=&quot;token number&quot;&gt;1234567890123456789012345678901234567890n&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;;&lt;/code&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-12" value="&lt;pre tabindex=&quot;0&quot; class=&quot;line-numbers language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;token template-string&quot;&gt;&lt;code class=&quot;token template-punctuation string&quot;&gt;`&lt;/code&gt;&lt;code class=&quot;token string&quot;&gt;the result is &lt;/code&gt;&lt;code class=&quot;token interpolation&quot;&gt;&lt;code class=&quot;token interpolation-punctuation punctuation&quot;&gt;&lt;em class=&quot;inline-highlight&quot;&gt;${&lt;/em&gt;&lt;/code&gt;&lt;em class=&quot;inline-highlight&quot;&gt;&lt;code class=&quot;token number&quot;&gt;1&lt;/code&gt; &lt;code class=&quot;token operator&quot;&gt;+&lt;/code&gt; &lt;code class=&quot;token number&quot;&gt;2&lt;/code&gt;&lt;code class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/code&gt;&lt;/em&gt;&lt;/code&gt;&lt;code class=&quot;token template-punctuation string&quot;&gt;`&lt;/code&gt;&lt;/code&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-13" value="Boolean" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-14" value="Null" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="460" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-15" value="&lt;code&gt;undefined&lt;/code&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-16" value="Variable declared but not assigned" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-17" value="&lt;code&gt;Objects&lt;/code&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-18" value="&lt;pre class=&quot;line-numbers language-javascript&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;token keyword&quot;&gt;typeof&lt;/code&gt; &lt;code class=&quot;token keyword&quot;&gt;undefined&lt;/code&gt; &lt;code class=&quot;token comment&quot;&gt;// &quot;undefined&quot;&lt;/code&gt;&#xa;&#xa;&lt;code class=&quot;token keyword&quot;&gt;typeof&lt;/code&gt; &lt;code class=&quot;token number&quot;&gt;0&lt;/code&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="570" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-19" value="&lt;code&gt;Symbol&lt;/code&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
