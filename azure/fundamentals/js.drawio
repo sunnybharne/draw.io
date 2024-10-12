@@ -61,6 +61,15 @@
         <mxCell id="Pa7Yj9XWR-jMYllM7bil-19" value="&lt;code&gt;Symbol&lt;/code&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="540" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-20" value="&lt;pre class=&quot;line-numbers language-javascript&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;token function&quot;&gt;alert&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;(&lt;/code&gt;&lt;code class=&quot;token string&quot;&gt;&quot;Hello&quot;&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;)&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;;&lt;/code&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-21" value="&lt;pre class=&quot;line-numbers language-javascript&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;result &lt;code class=&quot;token operator&quot;&gt;=&lt;/code&gt; &lt;code class=&quot;token function&quot;&gt;prompt&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;(&lt;/code&gt;title&lt;code class=&quot;token punctuation&quot;&gt;,&lt;/code&gt; &lt;code class=&quot;token punctuation&quot;&gt;[&lt;/code&gt;&lt;code class=&quot;token keyword&quot;&gt;default&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;]&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;)&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;;&lt;/code&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa7Yj9XWR-jMYllM7bil-22" value="&lt;pre class=&quot;line-numbers language-javascript&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;token keyword&quot;&gt;let&lt;/code&gt; age &lt;code class=&quot;token operator&quot;&gt;=&lt;/code&gt; &lt;code class=&quot;token function&quot;&gt;prompt&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;(&lt;/code&gt;&lt;code class=&quot;token string&quot;&gt;&#39;How old are you?&#39;&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;,&lt;/code&gt; &lt;code class=&quot;token number&quot;&gt;100&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;)&lt;/code&gt;&lt;code class=&quot;token punctuation&quot;&gt;;&lt;/code&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="860" width="340" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
